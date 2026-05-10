@@ -12,10 +12,10 @@ __________________________________
 
 -[LangChain, **LangGraph**, DeepAgent](https://github.com/langchain-ai/langgraph-101)
 
--[Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent)
+-[Oh My **OpenAgent**](https://github.com/code-yeongyu/oh-my-openagent)
 
 
--[Oh my Pio](https://github.com/yoqer/Pio-Harness)
+-[Oh My **Pio**](https://github.com/yoqer/Pio-Harness)
 ____________________________________________________________________
 
 
