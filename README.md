@@ -10,7 +10,7 @@ __________________________________
 -[Que son?; Como crearse?](https://youtu.be/LFEKd-Y3QX8?is=THxrLeCKTfCMc223)  -[Ejemplo](https://github.com/nneira/agent-skills-a2a-adk-claude)
 
 
--[LangChain, *LangGraph*, Deep Agent](https://github.com/langchain-ai/langgraph-101)
+-[LangChain, **LangGraph**, Deep Agent](https://github.com/langchain-ai/langgraph-101)
 
 -[Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent)
 
