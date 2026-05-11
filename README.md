@@ -40,7 +40,7 @@ ____________________________________________________________________
 
 ## • Swarms
 
-Ah My ⚡ [Flash](https://github.com/yoqer/alas) 🗽
+Ah My ⚡ [Flash](https://github.com/yoqer/Flash) 🗽
 
 
 
