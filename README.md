@@ -1,4 +1,4 @@
-# Alas:
+# Alas:  🦸 ⚔️ 🦹
 Las Alas o los Harneses, son estructuras Agenticas para LLMs.
 
 
@@ -34,7 +34,7 @@ ____________________________________________________________________
 
 
 [RoboCop](https://GitHub.com/yoqer/robocop)
-
+🥷
 
 ____________________________________________________________________
 
